@@ -1,3 +1,6 @@
+pip install pylint
+
+import pylint
 import time
 import argparse
 
