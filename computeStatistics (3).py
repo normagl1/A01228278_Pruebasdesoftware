@@ -1,3 +1,7 @@
+
+pip install pylint
+
+import pylint
 import sys
 import time
 
